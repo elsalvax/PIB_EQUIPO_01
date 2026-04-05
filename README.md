@@ -25,12 +25,12 @@ Buscamos desarrollar soluciones innovadoras, accesibles y sostenibles que contri
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Salvador** | Líder del equipo | desarrollo de equipos |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Daniel** | creador de protesis |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Ener** | tecnico de la salud |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Salvador** | Líder del equipo | Desarrollo de equipos |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Daniel** | Diseñador de prótesis |
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Ener** | Ingeniero clínico |
 
 
 ---
 
 ## 📌 Resumen Final  
-Este README resume quiénes somos, qué nos motiva y en qué ODS queremos enfocar nuestro trabajo durante este semestre 2026.1 .  
+Como equipo, aspiramos a que nuestras propuestas no solo resuelvan un problema específico, sino que también generen un impacto positivo a largo plazo, promoviendo comunidades más saludables, resilientes y sostenibles.
