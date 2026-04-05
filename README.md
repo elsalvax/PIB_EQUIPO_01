@@ -5,16 +5,12 @@
 ---
 
 ## 🌍 Descripción del Equipo 
-Somos el **Equipo 01** del curso **procesos de inovacion en bioingenieria 2026-1**, conformado por estudiantes de la carrera de Ingeniería biomedica
-Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
+Somos el Equipo 01 del curso Procesos de Innovación en Bioingeniería 2026-1, conformado por estudiantes de la carrera de Ingeniería Biomédica de la PUCP y la UPCH. Actualmente, nos encontramos desarrollando competencias en el diseño y la innovación aplicadas al ámbito de la bioingeniería.
 
-Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
-- ODS 3: Salud y Bienestar  
-- ODS 6: Agua Limpia y Saneamiento  
-- ODS 9: Industria, Innovación e Infraestructura  
-- ODS 11: Ciudades y Comunidades Sostenibles  
-- ODS 13: Acción por el Clima  
+Nuestro principal objetivo es aplicar la metodología de diseño para desarrollar soluciones innovadoras que generen un impacto positivo a nivel social, tecnológico y ambiental.
+Nuestro enfoque está orientado a identificar y abordar problemáticas reales que afectan la calidad de vida de las personas, especialmente en contextos donde existen limitaciones en el acceso a servicios de salud, agua segura o infraestructura adecuada.
 
+Buscamos desarrollar soluciones innovadoras, accesibles y sostenibles que contribuyan a mejorar el bienestar de la población, integrando tecnología y conocimiento en bioingeniería. Asimismo, priorizamos un enfoque centrado en el usuario, considerando sus necesidades, entorno y contexto social.
 ---
 
 ## 📸 Fotografía del Equipo  
