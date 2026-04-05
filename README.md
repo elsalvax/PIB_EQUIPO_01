@@ -26,8 +26,8 @@ Buscamos desarrollar soluciones innovadoras, accesibles y sostenibles que contri
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 | <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Salvador** | Líder del equipo | Desarrollo de equipos |
-| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Daniel** | Diseñador de prótesis |
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Ener** | Ingeniero clínico |
+| <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Daniel** | Diseñador de prótesis |Diseño y desarrollo de prótesis biomédicas enfocadas en la accesibilidad, funcionalidad y mejora de la calidad de vida
+| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Ener** | Ingeniero clínico |Optimización y gestión de tecnologías médicas, seguridad del paciente y mejora de servicios de salud
 
 
 ---
