@@ -25,7 +25,7 @@ Buscamos desarrollar soluciones innovadoras, accesibles y sostenibles que contri
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| <img src="/Recursos/Imágenes/integrante1.png" width="90"/> | **Salvador** | Líder del equipo | Desarrollo de equipos |
+| <img src="https://github.com/elsalvax/PIB_EQUIPO_01/blob/ce1d2155e58e52efc461092d7fd7c2e89e55d585/WhatsApp%20Image%202026-04-08%20at%2010.41.02%20PM%20(2).jpeg" width="90"/> | **Salvador** | Líder del equipo | Desarrollo de equipos |
 | <img src="/Recursos/Imágenes/integrante2.png" width="90"/> | **Daniel** | Diseñador de prótesis |Diseño y desarrollo de prótesis biomédicas enfocadas en la accesibilidad, funcionalidad y mejora de la calidad de vida
 | <img src="https://github.com/elsalvax/PIB_EQUIPO_01/blob/e18de45f22556b863bba1b2b3765b0f5aa4e4504/WhatsApp%20Image%202026-04-08%20at%2010.41.02%20PM%20(1).jpeg" width="90"/> | **Ener** | Ingeniero clínico |Optimización y gestión de tecnologías médicas, seguridad del paciente y mejora de servicios de salud
 
