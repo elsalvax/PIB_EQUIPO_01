@@ -15,7 +15,7 @@ Buscamos desarrollar soluciones innovadoras, accesibles y sostenibles que contri
 
 ## 📸 Fotografía del Equipo  
 <p align="center">
-<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/user-attachments/assets/3829718f-51c7-4d00-b262-ef37f178f059" />
+<img width="1408" height="768" alt="imagen_alumnos_IA" src="https://github.com/elsalvax/PIB_EQUIPO_01/blob/3719747a9cf45658e65bdde5c9202cf39a89f713/foto%20grupal.jpg" />
   <em>Figura 1. Fotografía del equipo 0X</em>
 </p>
 
